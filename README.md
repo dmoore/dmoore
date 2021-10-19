@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dmoore, or just Dan. I'm a librarian. 
+- 👀 I’m interested in ease of transactions when searching for information, and also search experiences that encourage the user to interrogate resources as they search.
+- 🌱 I’m currently learning - well, anything really! 
+- 💞️ I’m looking to collaborate on Primo overhauls, experiments involving search environments, and informatics. 
+- 📫 Best way to contact would be email - dan.moore@edmonds.edu. But I'm also on the Code4Lib slack network as @danmoore. 
